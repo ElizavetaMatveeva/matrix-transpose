@@ -1,6 +1,4 @@
-# MatrixTranspose
-This program changes rows to columns and columns to rows in a martix
+# matrix-transpose
+Switches rows and columns in a martix
 
-ITMO University homework, 2015.
-The task was to create a matrix which size is defined by user, automatically fill it in with random numbers, and transpose it. 
-Goal: learn how to effectively work with memory (using pointers, creating and erasing objects from memory) and come up with ways to transpose the matrix depending on it's shape (square/rectangle).
+This program lets users define matrix size, then creates it and automatically fills in with random numbers. In the end it calculates the transpose of the newly created matrix.
